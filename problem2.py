@@ -54,7 +54,7 @@ def temperature_converter():
     # - Validate input
     # - Perform conversion
     # - Display result rounded to 2 decimal places
-def temperature_converter():
+def Temperature_Converter():
     """simple temperature converter"""
     print("Temperatur Converter")
 
